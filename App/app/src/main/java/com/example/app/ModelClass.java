@@ -8,6 +8,8 @@ public class ModelClass {
   }
 
   private  int imageResoruce;
+  private  String title;
+  private   String body;
 
   public int getImageResoruce() {
     return imageResoruce;
@@ -21,8 +23,7 @@ public class ModelClass {
     return body;
   }
 
-  private  String title;
-  private   String body;
+
 
 
 }
